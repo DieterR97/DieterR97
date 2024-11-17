@@ -8,8 +8,8 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieter-roelofse-4769152a0/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DieterR97)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dieter-roelofse-4769152a0/){:target="_blank"}
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DieterR97){:target="_blank"}
   
 </div>
 
@@ -75,25 +75,25 @@
 
 <div align="center">
     <h3>Term 01: Fallout Forge</h3>
-    <a href="https://github.com/DieterR97/Fallout-Forge-Frontend">
+    <a href="https://github.com/DieterR97/Fallout-Forge-Frontend" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Fallout-Forge-Frontend&theme=dark" />
     </a>
-    <a href="https://github.com/DieterR97/Fallout-Forge-Backend">
+    <a href="https://github.com/DieterR97/Fallout-Forge-Backend" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Fallout-Forge-Backend&theme=dark" />
     </a>
     <h3>Term 02: Cre8ive AI Arena</h3>
-    <a href="https://github.com/DieterR97/Cre8ive-AI-Arena">
+    <a href="https://github.com/DieterR97/Cre8ive-AI-Arena" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Cre8ive-AI-Arena&theme=dark" />
     </a>
     <h3>Term 03: Astro</h3>
-    <a href="https://github.com/DieterR97/Astro">
+    <a href="https://github.com/DieterR97/Astro" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Astro&theme=dark" />
     </a>
-    <a href="https://github.com/DieterR97/Astro-Backend">
+    <a href="https://github.com/DieterR97/Astro-Backend" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Astro-Backend&theme=dark" />
     </a>
     <h3>Term 04: Upscalee</h3>
-    <a href="https://github.com/DieterR97/Upscalee">
+    <a href="https://github.com/DieterR97/Upscalee" target="_blank">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Upscalee&theme=dark" />
     </a>
 </div>
@@ -112,7 +112,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: dieter.dieter.no1@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dieter-roelofse-4769152a0/)
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/dieter-roelofse-4769152a0/" target="_blank">LinkedIn Profile</a>
 
 ---
 
