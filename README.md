@@ -117,5 +117,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Always learning, always coding!</sub>
+  <h3>⚡ Always learning, always coding!</h3>
 </div>
