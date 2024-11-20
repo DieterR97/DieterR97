@@ -125,22 +125,30 @@
 ## 📌 Featured Projects
 
 <div align="center">    
-    <div align="center" style="display: inline-flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; background-color: #8AADF4; padding: 20px; border-radius: 10px;">
-        <img src="./upscalee_gif.gif" alt="Upscalee Gif">
-        <a href="https://github.com/DieterR97/Upscalee" target="_blank">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Upscalee&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
-        </a>
+    <div align="center" style="background-color: #8AADF4; display: inline-flex; align-items: center; justify-content: center; flex-wrap: wrap; background-color: #8AADF4; border-radius: 10px;">
+        <div align="center" style="background-color: #8AADF4; display: inline-flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; background-color: #8AADF4; padding: 20px; border-radius: 10px;">
+            <img src="./upscalee_gif.gif" alt="Upscalee Gif">
+            <a href="https://github.com/DieterR97/Upscalee" target="_blank">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Upscalee&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
+            </a>
+        </div>
     </div>
     <h5></h5>
-    <a href="https://github.com/DieterR97/Astro" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Astro&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
-    </a>
-    <a href="https://github.com/DieterR97/Fallout-Forge-Frontend" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Fallout-Forge-Frontend&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
-    </a>
-    <a href="https://github.com/DieterR97/Cre8ive-AI-Arena" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Cre8ive-AI-Arena&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
-    </a>
+    <div style="padding: 15px; display: inline-flex;">
+        <a href="https://github.com/DieterR97/Astro" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Astro&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
+        </a>
+    </div>
+    <div style="padding: 15px; display: inline-flex;">
+        <a href="https://github.com/DieterR97/Fallout-Forge-Frontend" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Fallout-Forge-Frontend&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
+        </a>
+    </div>
+    <div style="padding: 15px; display: inline-flex;">
+        <a href="https://github.com/DieterR97/Cre8ive-AI-Arena" target="_blank">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DieterR97&repo=Cre8ive-AI-Arena&theme=dark&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=89b4fa&border_color=313244" />
+        </a>
+    </div>
 </div>
 <h5></h5>
 
